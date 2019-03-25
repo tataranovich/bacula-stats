@@ -1,0 +1,4 @@
+settings.yml
+*.swp
+*.pyc
+*.pyo
